@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: black;
+  background-size: cover;
+  background-image: url(img/img1.jpg);
+}
+.bg-img2 {
+  background-color: black;
+  background-size: cover;
+  background-image: url(img/img2.jpg);
+}
+.bg-img3 {
+  background-color: black;
+  background-size: cover;
+  background-image: url(img/img3.jpg);
+}
+.img-size {
+  height: 600px;
+}
